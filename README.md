@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @NewbyDood
+- 👀 I’m interested in cybersecurity and bug bounties. I am new to coding.
+- 🌱 I’m currently learning on Codecademy.
